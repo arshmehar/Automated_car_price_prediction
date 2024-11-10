@@ -1,0 +1,49 @@
+.auth-card {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.auth-card h2{
+    padding-bottom: 20px;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.toggle-link {
+    text-align: center;
+    cursor: pointer;
+    color: #007BFF;
+}
+
+.toggle-link:hover {
+    text-decoration: underline;
+}
+
+.email-username-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.or-text {
+    margin: 0 10px;
+    font-weight: bold;
+}

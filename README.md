@@ -133,9 +133,3 @@ This will return you to your global environment.
 
 - **Missing Python Dependencies**: If you see errors related to missing Python packages, make sure the virtual environment is activated and that you have installed all dependencies with `pip install -r backend/requirements.txt`.
 - **Port Conflicts**: The Flask app and React app may both run on different ports by default (e.g., 5000 for Flask and 3000 for React). Ensure these ports are not in conflict with other running services.
-
-## Conclusion
-
-By following the above steps, you will have a fully functional environment for both frontend and backend development. The virtual environment ensures that Python dependencies are isolated from global installations, making the project easier to manage and work on.
-
-Feel free to ask if you have any issues setting up the project!
