@@ -1,5 +1,7 @@
 node_modules
 
+ml_model.pkl
+
 # Ignore the virtual environment
 models/env/
 
