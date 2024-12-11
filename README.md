@@ -1,5 +1,5 @@
 
-# Car Price Prediction Project
+# Automated Vehicle Valuation using Machine learning
 
 This project predicts the price of a car based on various features (like manufacturer, model, mileage, etc.) using a machine learning model. The backend of the project uses Python, Flask, and various ML libraries, and it communicates with a frontend built using Node.js and Express.
 
